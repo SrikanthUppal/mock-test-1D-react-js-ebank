@@ -1,0 +1,24 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.not-found-img {
+  width: 400px;
+}
+.not-found-heading {
+  font-family: 'Roboto';
+  color: #183b56;
+  font-size: 36px;
+  font-weight: 600;
+}
+.not-found-description {
+  font-family: 'Roboto';
+  color: #5a7184;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 0;
+}
